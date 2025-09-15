@@ -48,6 +48,5 @@ This project is ideal for:
 - Students practicing Swing components
 
 ## Screenshort
-<img width="1366" height="768" alt="Screenshot (1010)" src="https://github.com/user-attachments/assets/c1f3c1f0-3b87-4123-ae11-f3c3244b9e51" />
-<img width="1366" height="768" alt="Screenshot (1011)" src="https://github.com/user-attachments/assets/14b4bbc0-dc0a-4b8f-b7fc-2eaae70368dd" />
-
+<img width="1366" height="768" alt="Screenshot (1010)" src="https://github.com/user-attachments/assets/c6421a13-0817-4116-80f5-e39f97680ebd" />
+<img width="1366" height="768" alt="Screenshot (1011)" src="https://github.com/user-attachments/assets/c72dc50b-0dc9-4cb5-b568-0e0b84894f3b" />
