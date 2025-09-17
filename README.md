@@ -21,7 +21,7 @@ This project is a simple **Login GUI** built using **Java Swing** in **Apache Ne
 - Swing (Java GUI toolkit)
 - Apache NetBeans IDE 21
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository.
 2. Open the project in NetBeans IDE.
